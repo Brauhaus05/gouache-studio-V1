@@ -1,0 +1,5 @@
+{
+  "name": "Gouache Studio",
+  "description": "Generate and edit mid-century modern gouache illustrations using Gemini 2.5 Flash Image.",
+  "requestFramePermissions": []
+}
